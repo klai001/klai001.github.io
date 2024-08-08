@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello there!
+I'm Kei Onn, currently working as a Schmidt AI in Science Postdoctoral Fellow at LKCMedicine, Singapore.
+Happy to chat about transcriptomics/genomics in neurodegenerative disease research!
